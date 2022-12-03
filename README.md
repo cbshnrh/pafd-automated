@@ -29,3 +29,4 @@ Name 为 PASSWORD 的在 Value 里填入 UIS 密码。这里可以不用担心�
 
 通过 GitHub Action，每天十点会自动运行脚本帮你填写 PAFD，填写的地址是上一次的位置，从而你再也不用担心被辅导员催啦~
 2 months
+4 months
